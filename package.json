@@ -1,0 +1,27 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "mijn eerste training bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohilalami/Bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "LotR"
+  ],
+  "author": "Sohil Alami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sohilalami/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/sohilalami/Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
